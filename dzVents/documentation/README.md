@@ -1781,7 +1781,7 @@ return {
 				local lastUpdate = Time(node.LastUpdate)
 				print(node.Name)
 				print('Hours ago: ' .. lastUpdate.hoursAgo)
-				print('State: ' .. node.State')
+				print('State: ' .. node.State)
 			end
 		end
 	end
